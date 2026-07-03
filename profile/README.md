@@ -78,7 +78,7 @@ sequenceDiagram
 ## Contributing & Wave Programs  
 SorobanOps Network is fully open-source and built to power public developer tooling infrastructure. We organize our engineering sprint issues around strict difficulty bounds to make onboarding intuitive.
 
-* Want to contribute? Look for active issues tagged with drips-wave and pick a task mapped to your skillset.
+* Want to contribute? Look for active issues and pick a task mapped to your skillset.
 
 * Guidelines: Review our global **CONTRIBUTING**.md and CODE_OF_CONDUCT.md policies before pushing branches.
 
